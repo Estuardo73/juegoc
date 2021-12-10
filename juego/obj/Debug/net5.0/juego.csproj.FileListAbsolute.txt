@@ -1,0 +1,16 @@
+C:\Users\Estuardo Lopez\source\repos\juego\juego\obj\Debug\net5.0\juego.csproj.AssemblyReference.cache
+C:\Users\Estuardo Lopez\source\repos\juego\juego\obj\Debug\net5.0\juego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estuardo Lopez\source\repos\juego\juego\obj\Debug\net5.0\juego.AssemblyInfoInputs.cache
+C:\Users\Estuardo Lopez\source\repos\juego\juego\obj\Debug\net5.0\juego.AssemblyInfo.cs
+C:\Users\Estuardo Lopez\source\repos\juego\juego\obj\Debug\net5.0\juego.csproj.CoreCompileInputs.cache
+C:\Users\Estuardo Lopez\source\repos\juego\juego\bin\Debug\net5.0\juego.exe
+C:\Users\Estuardo Lopez\source\repos\juego\juego\bin\Debug\net5.0\juego.deps.json
+C:\Users\Estuardo Lopez\source\repos\juego\juego\bin\Debug\net5.0\juego.runtimeconfig.json
+C:\Users\Estuardo Lopez\source\repos\juego\juego\bin\Debug\net5.0\juego.runtimeconfig.dev.json
+C:\Users\Estuardo Lopez\source\repos\juego\juego\bin\Debug\net5.0\juego.dll
+C:\Users\Estuardo Lopez\source\repos\juego\juego\bin\Debug\net5.0\ref\juego.dll
+C:\Users\Estuardo Lopez\source\repos\juego\juego\bin\Debug\net5.0\juego.pdb
+C:\Users\Estuardo Lopez\source\repos\juego\juego\obj\Debug\net5.0\juego.dll
+C:\Users\Estuardo Lopez\source\repos\juego\juego\obj\Debug\net5.0\ref\juego.dll
+C:\Users\Estuardo Lopez\source\repos\juego\juego\obj\Debug\net5.0\juego.pdb
+C:\Users\Estuardo Lopez\source\repos\juego\juego\obj\Debug\net5.0\juego.genruntimeconfig.cache
